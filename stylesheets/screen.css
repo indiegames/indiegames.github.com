@@ -1,3 +1,11 @@
+html {
+	background: url(http://farm3.staticflickr.com/2725/4167967067_d5cd77d759_b.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 a {
 	color: #5ec6ff;
 	background-color: #cdf9ff;
@@ -8,7 +16,8 @@ a:hover {
 	text-decoration: underline;
 }
 
-header {
+header,
+footer {
 	padding: 14px;
 }
 
@@ -32,6 +41,7 @@ body {
 	background-color: #fff;
 	color: #000;
 	padding: 10px;
+	width: 660px;
 }
 
 h1 {
@@ -68,16 +78,33 @@ nav ul li a {
 	padding: 2px;
 }
 
-p#tagline {
+p.tagline {
 	padding: 0;
 	margin: 0 0 20px 0;
 	font-size: 75%;
 	color: #ccc;
 }
 
+section#container {
+	overflow: hidden;
+	clear: both;
+}
+
 section#contents {
 	float: left;
 	width: 500px;
+}
+
+section#background-credits {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+}
+
+section#background-credits p {
+	background-color: #fff;
+	padding: 1px;
+	margin: 0;
 }
 
 time {

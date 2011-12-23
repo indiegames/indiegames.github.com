@@ -4,43 +4,32 @@
   <title>{{page.title}}</title>
   <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
   <meta charset="utf-8">
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-2935139-20']);
-    _gaq.push(['_setDomainName', 'indiegames.it']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+  {% include analytics.html %}
 </head>
 <body>
-  <div id="fb-root"></div>
-  <script>
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=320544831303889";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
+  {% include facebook.html %}
   <header>
     <h1>Indie Games</h1>
-    <p id="tagline">Le recensioni dei migliori videogiochi indipendenti</p>
+    <p class="tagline">Le recensioni dei migliori videogiochi indipendenti</p>
   </header>
-  <nav>
-    <ul>
-      <li><a href="/" title="Gli articoli più recenti.">Indice</a></li>
-      <li><a href="/archives/" title="Vecchi articoli.">Archivio</a></li>
-      <li><a href="/about/" title="Chi c'è dietro Indie Games?">About</a></li>
-    </ul>
-  </nav>
-  <section id="contents">
-    {{content}}
+  <section id="container">
+    <nav>
+      <ul>
+        <li><a href="/" title="Gli articoli più recenti.">Indice</a></li>
+        <li><a href="/archives/" title="Vecchi articoli.">Archivio</a></li>
+        <li><a href="/about/" title="Chi c'è dietro Indie Games?">About</a></li>
+      </ul>
+    </nav>
+    <section id="contents">
+      {{content}}
+    </section>
+  </section>
+  <footer>
+    <p class="tagline">Segui <a href="http://twitter.com/indiegames_it" title="Indie Games Twitter account.">@indiegames_it</a>, ricevi <a href="http://feeds.feedburner.com/IndieGames/" title="Atom feed.">gli aggiornamenti</a>, o fai fork del <a href="http://github.com/indiegames/indiegames.github.com/" title="Il codice sorgente.">codice sorgente</a> (se sei incline a questo genere di cose).</p>
+    <p class="tagline">Salvo diversa indicazione, tutto il materiale è disponibile con licenza <a href="http://creativecommons.org/licenses/by-sa/2.5/it/" title="Creative Commons license.">Attribution-Share Alike</a>.</p>
+  </footer>
+  <section id="background-credits">
+    <p class="tagline">Photo by <a href="http://www.flickr.com/photos/gavinbloys/4167967067">gavinbloys</a></p>
   </section>
 </body>
 </html>
