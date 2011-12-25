@@ -4,7 +4,7 @@ title: 'Enviro-bear Operation: Hibernation'
 ---
 ### Chi sta guidando quella macchina? O mio Dio, c'è un orso al volante!
 
-![Enviro-bear Operation: Hibernation](/images/enviro_bear.gif)
+![Enviro-bear Operation: Hibernation](http://indiegames.it/images/enviro_bear.gif)
 
 Una simulazione di guida: sei un orso al volante di un'automobile arancione, devi fare di tutto per procurarti il cibo necessario alla sopravvivenza prima che arrivi l'inverno.
 
