@@ -4,7 +4,6 @@ layout: default
 <article>
   <h2>{{page.title}}</h2>
   <time datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%B %d, %Y"}}</time>
-  <p class="tagline">{% include categories.html %}</p>
   {{content}}
 </article>
 <div class="fb-comments" data-href="{{page.url}}" data-num-posts="2" data-width="500"></div>

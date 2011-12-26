@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Enviro-bear Operation: Hibernation'
-categories: ['recensione', 'iphone']
 ---
 ### Chi sta guidando quella macchina? O mio Dio, c'è un orso al volante!
 
