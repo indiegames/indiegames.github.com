@@ -1,4 +1,4 @@
-## Games to review
+# Next reviews
 
 * nyan nyan stack (http://starfruitgames.com/blog/?p=414)
 * passage (http://db.tigsource.com/games/passage)
