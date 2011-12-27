@@ -2,7 +2,7 @@
 layout: post
 title: Brain Damage
 excerpt: |-
-  ![Brain Damage](/images/brain_damage.gif)
+  ![Brain Damage](http://indiegames.it/images/brain_damage.gif)
   
   "Cosa mi hai fatto?!"<br/>
   "Non preoccuparti, aggiusterò tutto."
@@ -10,7 +10,7 @@ excerpt: |-
 ---
 ### "Cosa mi hai fatto?!"<br/>"Non preoccuparti, aggiusterò tutto."
 
-![Brain Damage](/images/brain_damage.gif)
+![Brain Damage](http://indiegames.it/images/brain_damage.gif)
 
 Due colori e pochi pixel bastano a questo gioco per far accapponare la pelle.
 
