@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Brain Damage
+excerpt: |-
+  ![Brain Damage](/images/brain_damage.gif)
+  
+  "Cosa mi hai fatto?!"<br/>
+  "Non preoccuparti, aggiusterò tutto."
+---
 ---
 ### "Cosa mi hai fatto?!"<br/>"Non preoccuparti, aggiusterò tutto."
 

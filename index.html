@@ -2,11 +2,14 @@
 layout: default
 title: Indie Games
 ---
-{% for post in site.posts limit:1 %}
+{% for post in paginator.posts %}
 <article>
   <h2><a href="{{post.url}}">{{post.title}}</a></h2>
   <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
-  {{post.content}}
+  {{post.excerpt | markdownify}}
+  
+  <a href="{{post.url}}" title="Vai alla pagina dell'articolo">Leggi tutto &raquo;</a>
 </article>
-<p><a href="{{post.url}}">Commenti</a></p>
 {% endfor %}
+
+{% include paginator.html %}

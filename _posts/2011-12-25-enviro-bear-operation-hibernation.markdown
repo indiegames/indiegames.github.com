@@ -1,6 +1,12 @@
 ---
 layout: post
 title: 'Enviro-bear Operation: Hibernation'
+excerpt: |-
+  ![Enviro-bear Operation: Hibernation](http://indiegames.it/images/enviro_bear.gif)
+  
+  Chi sta guidando quella macchina?<br/>
+  O mio Dio, c'è un orso al volante!
+---
 ---
 ### Chi sta guidando quella macchina? O mio Dio, c'è un orso al volante!
 
