@@ -7,7 +7,6 @@ excerpt: |-
   "Cosa mi hai fatto?!"<br/>
   "Non preoccuparti, aggiusterò tutto."
 ---
----
 ### "Cosa mi hai fatto?!"<br/>"Non preoccuparti, aggiusterò tutto."
 
 ![Brain Damage](http://indiegames.it/images/brain_damage.gif)
