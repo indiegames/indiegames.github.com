@@ -4,11 +4,24 @@ title: Archivio
 ---
 <h2>Archivio</h2>
 
-<ul>
 {% for post in site.posts %}
-  <li>
-    <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%Y/%m/%d"}}</time>
-    <a href="{{post.url}}">{{post.title}}</a>
-  </li>
+  {% unless post.next %}
+    <h3>{{ post.date | date: '%Y' }}</h3>
+  {% else %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != next_year %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+    {% endif %}
+  {% endunless %}
+  {% unless post.next %}
+    <h4>{{ post.date | date: '%B' }}</h4>
+  {% else %}
+    {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+    {% capture next_month %}{{ post.next.date | date: '%B' }}{% endcapture %}
+    {% if month != next_month %}
+      <h4>{{ post.date | date: '%B' }}</h4>
+    {% endif %}
+  {% endunless %}
+  <p>{{ post.date | date: '%d' }} <a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
-</ul>
