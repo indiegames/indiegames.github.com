@@ -2,33 +2,47 @@
 
 ## Rad
 
-* nyan nyan stack
+### passage
 
-  http://starfruitgames.com/blog/?p=414
-  
-* passage
+http://db.tigsource.com/games/passage
 
-  http://db.tigsource.com/games/passage
-  
-* ultimate flirt-off
+### ultimate flirt-off
 
-  http://www.auntiepixelante.com/?p=1389
-  
-* at a distance, *Elisa Fabris*
+http://www.auntiepixelante.com/?p=1389
 
-  http://distractionware.com/atadistance/<br/>
-  http://distractionware.com/blog/category/at-a-distance/
-  
-* realistic summer sports simulator, *Francesco Fraioli*
+### at a distance
 
-  http://www.captain-games.com/2011/12/justin-smiths-realistic-summer-sports.html
+*Elisa Fabris*
+
+http://distractionware.com/atadistance/<br/>
+http://distractionware.com/blog/category/at-a-distance/
+
+### realistic summer sports simulator
+
+*Francesco Fraioli*
+
+http://www.captain-games.com/2011/12/justin-smiths-realistic-summer-sports.html
 
 ## Edge
 
-* machinarium
+### machinarium
 
-* limbo, *Paolo Bernagozzi*
+*Luca De Rosso*
 
-* braid
+### limbo
 
-  http://multiplayerblog.mtv.com/2007/08/08/a-higher-standard-game-designer-jonathan-blow-challenges-super-marios-gold-coins-unethical-mmo-design-and-everything-else-you-may-hold-dear-about-video-games/)
+*Paolo Bernagozzi*
+
+### braid
+
+*Francesco Fraioli*
+
+http://multiplayerblog.mtv.com/2007/08/08/a-higher-standard-game-designer-jonathan-blow-challenges-super-marios-gold-coins-unethical-mmo-design-and-everything-else-you-may-hold-dear-about-video-games/
+
+
+### wolrd of goo
+
+*Guglielmo Alati*
+
+http://www.worldofgoo.com/<br/>
+http://2dboy.com/
