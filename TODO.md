@@ -2,10 +2,6 @@
 
 ## Rad
 
-### passage
-
-http://db.tigsource.com/games/passage
-
 ### at a distance
 
 *Elisa Fabris*
