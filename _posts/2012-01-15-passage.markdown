@@ -1,0 +1,25 @@
+---
+layout: post
+title: Passage
+excerpt: |-
+  ![Passage](http://indiegames.it/images/passage.png)
+    
+  Memento mori
+---
+### Memento mori
+
+![Passage](http://indiegames.it/images/passage.png)
+
+Passage si conclude inevitabilmente con la morte del protagonista dopo soli cinque minuti di gioco. In questi cinque minuti, che rappresentano tutta la vita del personaggio, lo *scopo* del gioco è quello di perlustrare un labirinto. Il labirinto in questione è infinito e si sviluppa in tutte e quattro le direzioni cardinali, ma la porzione visibile è sempre una piccolissima parte.
+
+Il protagonista comincia la sua avventura all'estrema sinistra dello schermo, avvicinandosi progressivamente alla parte destra. In parallelo la figura del personaggio cambia: all'inizio è giovane, porta abiti dai colori sgargianti e i suoi capelli sono biondi; con il passare del tempo i capelli si diradano e gli abiti cambiano, fino alle fasi finali del gioco, dove il soggetto è rappresentato da un vecchio ricurvo su se stesso che usa un bastone per riuscire a camminare.
+
+Il percorso è lineare nella parte alta del labirinto e si complica scendendo in profondità. Le difficoltà però portano a riconoscimenti più significativi: il numero di tesori di cui è disseminato il terreno è maggiore all'aumentare della complessità del sentiero.
+
+Ad un certo punto del cammino si trova una figura femminile, da quel momento in poi il nostro eroe non sarà più solo. Trascorrere una vita solitaria non è alquanto allettante, ma trovando l'anima gemella saremo costretti a continuare l'avventura sempre in due non potendo percorrere le parti più intricate del labirinto, quelle sature di tesori.
+
+L'autore, Jason Rohrer, sviluppa il gioco alla soglia dei suoi trent'anni, come una sorta di monito: *ricordati che devi morire*. Passage è una poesia interattiva autobiografica che raccoglie in soli cinque minuti il significato di una vita, un'opera d'arte che la definizione "video gioco" non riesce a coglierne l'essenza.
+
+Risorse:
+
+* [Passage: a Gamma256 video game by Jason Rohrer](http://hcsoftware.sourceforge.net/passage/)
