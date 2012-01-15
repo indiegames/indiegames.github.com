@@ -10,15 +10,15 @@ excerpt: |-
 
 ![Passage](http://indiegames.it/images/passage.png)
 
-Passage si conclude inevitabilmente con la morte del protagonista dopo soli cinque minuti di gioco. In questi cinque minuti, che rappresentano tutta la vita del personaggio, lo *scopo* del gioco è quello di perlustrare un labirinto. Il labirinto in questione è infinito e si sviluppa in tutte e quattro le direzioni cardinali, ma la porzione visibile è sempre una piccolissima parte.
+La vita è un passaggio; per questo la fine di Passage poteva coincidere solo con la morte del protagonista. Cinque minuti, tanto dura la vita del personaggio, dipanandosi attraverso un labirinto che il gioco ci permette di perlustrare. Il labirinto è infinito,  come le possibilità che ciascuna vita può avere, si sviluppa in tutte e quattro le direzioni cardinali, ma la porzione visibile è sempre e solo una piccolissima parte, come le possibilità che la vita in realtà ci concede.
 
-Il protagonista comincia la sua avventura all'estrema sinistra dello schermo, avvicinandosi progressivamente alla parte destra. In parallelo la figura del personaggio cambia: all'inizio è giovane, porta abiti dai colori sgargianti e i suoi capelli sono biondi; con il passare del tempo i capelli si diradano e gli abiti cambiano, fino alle fasi finali del gioco, dove il soggetto è rappresentato da un vecchio ricurvo su se stesso che usa un bastone per riuscire a camminare.
+Il protagonista comincia la sua avventura all'estrema sinistra dello schermo, avvicinandosi progressivamente alla parte destra. Durante il percorso la figura del personaggio si evolve: da giovane con abiti sgargianti e capelli biondi, si fa calvo con la maturità e gli abiti prendono i colori dell'autunno, fino alle fasi finali del gioco, quando è solo un vecchio ricurvo su se stesso che usa un bastone per riuscire a camminare.
 
-Il percorso è lineare nella parte alta del labirinto e si complica scendendo in profondità. Le difficoltà però portano a riconoscimenti più significativi: il numero di tesori di cui è disseminato il terreno è maggiore all'aumentare della complessità del sentiero.
+Il percorso è lineare nella parte alta del labirinto e si complica scendendo in profondità, proprio come quando la vita ci impegna a riflettere. Le difficoltà tuttavia portano a riconoscimenti più esaltanti: il numero di tesori di cui è disseminato il terreno è maggiore all'aumentare della complessità del sentiero.
 
-Ad un certo punto del cammino si trova una figura femminile, da quel momento in poi il nostro eroe non sarà più solo. Trascorrere una vita solitaria non è alquanto allettante, ma trovando l'anima gemella saremo costretti a continuare l'avventura sempre in due non potendo percorrere le parti più intricate del labirinto, quelle sature di tesori.
+Ad un certo punto, ad affiancarsi nel cammino ci sarà una figura femminile, che da quel momento in poi non lascerò il nostro eroe mai più da solo. La prospettiva di una vita in solitudine non è certo allettante, ma proseguire il nostro percorso in due ci impedirà di percorrere le parti più intricate del labirinto, quelle cioè sature di tesori.
 
-L'autore, Jason Rohrer, sviluppa il gioco alla soglia dei suoi trent'anni, come una sorta di monito: *ricordati che devi morire*. Passage è una poesia interattiva autobiografica che raccoglie in soli cinque minuti il significato di una vita, un'opera d'arte che la definizione "video gioco" non riesce a coglierne l'essenza.
+L'autore, Jason Rohrer, sviluppa il gioco alla soglia dei suoi trent'anni, come una sorta di monito: *ricordati che devi morire*. Passage è una poesia interattiva autobiografica che raccoglie in soli cinque minuti il significato di una vita o di tutte, un'opera d'arte di cui la definizione "video gioco" non riesce a coglierne appieno l'essenza.
 
 Risorse:
 
