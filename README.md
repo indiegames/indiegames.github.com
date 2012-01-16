@@ -1,4 +1,4 @@
-# ![indiegames.it](https://github.com/indiegames/indiegames.github.com/raw/master/favicon.ico) [indiegames.it](http://indiegames.it)
+# ![indiegames.it](https://github.com/indiegames/indiegames.github.com/raw/master/images/indiegames_logo.png) [indiegames.it](http://indiegames.it)
 
 See next reviews at https://github.com/indiegames/indiegames.github.com/blob/master/TODO.md
 
