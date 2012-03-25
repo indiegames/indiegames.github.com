@@ -2,6 +2,10 @@
 
 ## Rad
 
+### Promises
+
+http://ded.increpare.com/~locus/Promises/
+
 ### VVVVVV
 
 http://thelettervsixtim.es/
