@@ -1,2 +1,2 @@
 permalink: /:year/:month/:title.html
-paginate: 3 // number of posts per page
+paginate: 3
