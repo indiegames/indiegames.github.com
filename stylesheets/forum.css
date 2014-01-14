@@ -1,0 +1,7 @@
+.moot a {
+  background-color: transparent;
+}
+
+input, button {
+  font-family: 'monaco', monospace;
+}
